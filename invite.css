@@ -260,3 +260,13 @@ a {
         font-size: 11px;
     }
 }
+
+@media only screen and (max-width:380px) {
+    .location h6{
+        font-size: 15px;
+    }
+    .loc-button h6{
+        font-size: 10px;
+    }
+}
+
